@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chris Del Pino",
+    "home_page_url": "https://chrisdelpino.com",
+    "feed_url": "https://chrisdelpino.comfeed.json",
+    "description": "A minimal hugo theme focus on content",
+    "favicon": "https://chrisdelpino.com/assets/favicon.ico",
+    "expired": false,
+    "author": {
+      "name": "Calvin Tran",
+      "url": "https://canhtran.me/"
+    },
+    "items": [
+      
+      
+  
+      
+    ]
+  }
