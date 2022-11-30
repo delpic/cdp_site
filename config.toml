@@ -1,4 +1,4 @@
-baseURL = 'http://chrisdelpino.com'
+baseURL = 'https://chrisdelpino.com'
 languageCode = 'en-us'
 title = 'Chris Del Pino'
 paginate = 3
