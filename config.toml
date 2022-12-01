@@ -11,11 +11,6 @@ theme = 'maverick'
   logo = '/assets/favicon.ico'
   description = "A minimal hugo theme focus on content"
 
-  [params.comments]
-    githubRepo = 'canhtran/maverick'
-    theme = 'github-light'
-
-
 [menu]
   [[menu.main]]
     identifier = "about"
