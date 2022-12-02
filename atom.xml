@@ -6,11 +6,23 @@
     <link>https://chrisdelpino.com</link>
     
     <language>en</language>
-    <copyright>Copyright 1011, Calvin Tran</copyright>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <copyright>Copyright 2022, Calvin Tran</copyright>
+    <lastBuildDate>Wed, 30 Nov 2022 09:47:01 -0500</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="https://chrisdelpino.com/atom.xml" rel="self" type="application/atom+xml"/>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://chrisdelpino.com/posts/hello-world/</link>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;HELLO WORLD&lt;/strong&gt;&lt;/p&gt;
+</description>
+      <author>trandcanh@gmail.com (Calvin Tran)</author>
+      <guid>https://chrisdelpino.com/posts/hello-world/</guid>
+      <pubDate>Wed, 30 Nov 2022 09:47:01 -0500</pubDate>
+    </item>
     
   </channel>
 </rss>
